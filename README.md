@@ -1,5 +1,5 @@
 # golang-mac-pkg-uninstaller
-A script for uninstalling Golang environment installed by .pkg on macOS.
+A script for uninstalling Golang environment installed by .pkg on macOS. See https://golang.org/doc/install#uninstall.
 
 # Usage
 Open terminal, and do the following:  
